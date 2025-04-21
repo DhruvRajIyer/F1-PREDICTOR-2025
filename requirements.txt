@@ -1,0 +1,10 @@
+fastf1
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+jupyter
+ipykernel
+adjustText
+streamlit
